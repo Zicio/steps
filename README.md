@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yg5ayx15v8h1qqti?svg=true)](https://ci.appveyor.com/project/Zicio/steps)
+
 [Ссылка на GP](https://zicio.github.io/steps/)
 
 [Ссылка на задание](https://github.com/netology-code/ra16-homeworks/tree/master/forms/steps)
