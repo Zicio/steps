@@ -1,3 +1,7 @@
+[Ссылка на GP](https://zicio.github.io/steps/)
+
+[Ссылка на задание](https://github.com/netology-code/ra16-homeworks/tree/master/forms/steps)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
