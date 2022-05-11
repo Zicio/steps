@@ -1,3 +1,4 @@
+import "./Input.scss";
 import PropTypes from "prop-types";
 
 const Input = ({ onChange, ...props }) => {

@@ -1,0 +1,16 @@
+.form {
+  width: 500px;
+  display: grid;
+  grid-template-columns: repeat(2, 2fr) 0.6fr;
+  grid-gap: 5%;
+  align-items: end;
+
+  .form__submit {
+    all: unset;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-align: center;
+    cursor: pointer;
+  }
+}

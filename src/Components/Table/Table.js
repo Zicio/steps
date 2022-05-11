@@ -1,3 +1,4 @@
+import "./Table.scss";
 import PropTypes from "prop-types";
 
 const Table = (props) => {

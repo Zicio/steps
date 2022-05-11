@@ -1,3 +1,4 @@
+import "./Form.scss";
 import Input from "../Input/Input";
 import PropTypes from "prop-types";
 
